@@ -2,8 +2,8 @@
 
 ## Chapitre 1 : Introduction
 Une introduction sur le sujet du livre.
-## Chapitre 2 : Concepts de base
-Explication des concepts fondamentaux.
+## Chapitre 2 : Concepts de base en Git
+Explication complète sur Git.
 
 
 
