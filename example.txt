@@ -2,8 +2,10 @@
 
 ## Chapitre 1 : Introduction
 Une introduction sur le sujet du livre.
+<<<<<<< HEAD
 ## Chapitre 2 : Concepts de base en Git
-Explication complète sur Git.
+Explication complète sur Git et Introduction aux conflits
+Apprentissage des conflits dans Git.
 
 
 
