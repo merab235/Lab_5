@@ -2,10 +2,8 @@
 
 ## Chapitre 1 : Introduction
 Une introduction sur le sujet du livre.
-# Mon livre
-## Chapitre 1 : Introduction
-## Chapitre 2 : Notions de base
-### chapitr 3 : conclusion
-#### chapitre 4 : les liens
+## Chapitre 2 : Concepts de base
+Explication des concepts fondamentaux.
+
 
 
